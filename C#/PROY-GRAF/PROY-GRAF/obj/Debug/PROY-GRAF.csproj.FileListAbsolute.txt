@@ -1,0 +1,8 @@
+C:\Users\MiNombre\Documents\SharpDevelop Projects\PROY-GRAF\PROY-GRAF\bin\Debug\PROY-GRAF.exe.config
+C:\Users\MiNombre\Documents\SharpDevelop Projects\PROY-GRAF\PROY-GRAF\bin\Debug\PROY-GRAF.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\PROY-GRAF\PROY-GRAF\bin\Debug\PROY-GRAF.pdb
+C:\Users\MiNombre\Documents\SharpDevelop Projects\PROY-GRAF\PROY-GRAF\obj\Debug\PROY-GRAF.csprojResolveAssemblyReference.cache
+C:\Users\MiNombre\Documents\SharpDevelop Projects\PROY-GRAF\PROY-GRAF\obj\Debug\PROY_GRAF.MainForm.resources
+C:\Users\MiNombre\Documents\SharpDevelop Projects\PROY-GRAF\PROY-GRAF\obj\Debug\PROY-GRAF.csproj.GenerateResource.Cache
+C:\Users\MiNombre\Documents\SharpDevelop Projects\PROY-GRAF\PROY-GRAF\obj\Debug\PROY-GRAF.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\PROY-GRAF\PROY-GRAF\obj\Debug\PROY-GRAF.pdb

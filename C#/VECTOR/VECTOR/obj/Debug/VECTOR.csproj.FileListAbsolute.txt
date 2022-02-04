@@ -1,0 +1,6 @@
+C:\Users\MiNombre\Documents\SharpDevelop Projects\VECTOR\VECTOR\obj\Debug\VECTOR.csprojResolveAssemblyReference.cache
+C:\Users\MiNombre\Documents\SharpDevelop Projects\VECTOR\VECTOR\bin\Debug\VECTOR.exe.config
+C:\Users\MiNombre\Documents\SharpDevelop Projects\VECTOR\VECTOR\bin\Debug\VECTOR.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\VECTOR\VECTOR\bin\Debug\VECTOR.pdb
+C:\Users\MiNombre\Documents\SharpDevelop Projects\VECTOR\VECTOR\obj\Debug\VECTOR.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\VECTOR\VECTOR\obj\Debug\VECTOR.pdb

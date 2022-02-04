@@ -1,0 +1,6 @@
+C:\Users\MiNombre\Documents\SharpDevelop Projects\COMPUTADOR\COMPUTADOR\obj\Debug\COMPUTADOR.csprojResolveAssemblyReference.cache
+C:\Users\MiNombre\Documents\SharpDevelop Projects\COMPUTADOR\COMPUTADOR\bin\Debug\COMPUTADOR.exe.config
+C:\Users\MiNombre\Documents\SharpDevelop Projects\COMPUTADOR\COMPUTADOR\bin\Debug\COMPUTADOR.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\COMPUTADOR\COMPUTADOR\bin\Debug\COMPUTADOR.pdb
+C:\Users\MiNombre\Documents\SharpDevelop Projects\COMPUTADOR\COMPUTADOR\obj\Debug\COMPUTADOR.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\COMPUTADOR\COMPUTADOR\obj\Debug\COMPUTADOR.pdb

@@ -1,0 +1,6 @@
+C:\Users\MiNombre\Documents\SharpDevelop Projects\ARCHIVOSPERSONA\ARCHIVOSPERSONA\obj\Debug\ARCHIVOSPERSONA.csprojResolveAssemblyReference.cache
+C:\Users\MiNombre\Documents\SharpDevelop Projects\ARCHIVOSPERSONA\ARCHIVOSPERSONA\bin\Debug\ARCHIVOSPERSONA.exe.config
+C:\Users\MiNombre\Documents\SharpDevelop Projects\ARCHIVOSPERSONA\ARCHIVOSPERSONA\bin\Debug\ARCHIVOSPERSONA.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\ARCHIVOSPERSONA\ARCHIVOSPERSONA\bin\Debug\ARCHIVOSPERSONA.pdb
+C:\Users\MiNombre\Documents\SharpDevelop Projects\ARCHIVOSPERSONA\ARCHIVOSPERSONA\obj\Debug\ARCHIVOSPERSONA.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\ARCHIVOSPERSONA\ARCHIVOSPERSONA\obj\Debug\ARCHIVOSPERSONA.pdb

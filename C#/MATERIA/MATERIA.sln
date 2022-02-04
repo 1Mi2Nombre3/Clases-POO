@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MATERIA", "MATERIA\MATERIA.csproj", "{1D865702-BEC2-4088-A279-B3BBC3976209}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VIDEOJUEGO", "VIDEOJUEGO\VIDEOJUEGO.csproj", "{2624FF53-E48D-4168-A186-34DFD3A61856}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D865702-BEC2-4088-A279-B3BBC3976209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D865702-BEC2-4088-A279-B3BBC3976209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D865702-BEC2-4088-A279-B3BBC3976209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D865702-BEC2-4088-A279-B3BBC3976209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2624FF53-E48D-4168-A186-34DFD3A61856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2624FF53-E48D-4168-A186-34DFD3A61856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2624FF53-E48D-4168-A186-34DFD3A61856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2624FF53-E48D-4168-A186-34DFD3A61856}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

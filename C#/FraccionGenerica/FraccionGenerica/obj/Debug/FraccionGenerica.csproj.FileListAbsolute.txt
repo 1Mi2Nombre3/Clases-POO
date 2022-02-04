@@ -1,0 +1,6 @@
+C:\Users\MiNombre\Documents\SharpDevelop Projects\FraccionGenerica\FraccionGenerica\obj\Debug\FraccionGenerica.csprojResolveAssemblyReference.cache
+C:\Users\MiNombre\Documents\SharpDevelop Projects\FraccionGenerica\FraccionGenerica\bin\Debug\FraccionGenerica.exe.config
+C:\Users\MiNombre\Documents\SharpDevelop Projects\FraccionGenerica\FraccionGenerica\bin\Debug\FraccionGenerica.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\FraccionGenerica\FraccionGenerica\bin\Debug\FraccionGenerica.pdb
+C:\Users\MiNombre\Documents\SharpDevelop Projects\FraccionGenerica\FraccionGenerica\obj\Debug\FraccionGenerica.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\FraccionGenerica\FraccionGenerica\obj\Debug\FraccionGenerica.pdb

@@ -1,0 +1,6 @@
+C:\Users\MiNombre\Documents\SharpDevelop Projects\MASCOTA_H\MASCOTA_H\obj\Debug\MASCOTA_H.csprojResolveAssemblyReference.cache
+C:\Users\MiNombre\Documents\SharpDevelop Projects\MASCOTA_H\MASCOTA_H\bin\Debug\MASCOTA_H.exe.config
+C:\Users\MiNombre\Documents\SharpDevelop Projects\MASCOTA_H\MASCOTA_H\bin\Debug\MASCOTA_H.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\MASCOTA_H\MASCOTA_H\bin\Debug\MASCOTA_H.pdb
+C:\Users\MiNombre\Documents\SharpDevelop Projects\MASCOTA_H\MASCOTA_H\obj\Debug\MASCOTA_H.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\MASCOTA_H\MASCOTA_H\obj\Debug\MASCOTA_H.pdb

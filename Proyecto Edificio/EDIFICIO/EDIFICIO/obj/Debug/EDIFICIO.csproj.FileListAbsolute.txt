@@ -1,0 +1,6 @@
+C:\Users\MiNombre\Documents\SharpDevelop Projects\EDIFICIO\EDIFICIO\bin\Debug\EDIFICIO.exe.config
+C:\Users\MiNombre\Documents\SharpDevelop Projects\EDIFICIO\EDIFICIO\bin\Debug\EDIFICIO.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\EDIFICIO\EDIFICIO\bin\Debug\EDIFICIO.pdb
+C:\Users\MiNombre\Documents\SharpDevelop Projects\EDIFICIO\EDIFICIO\obj\Debug\EDIFICIO.csprojResolveAssemblyReference.cache
+C:\Users\MiNombre\Documents\SharpDevelop Projects\EDIFICIO\EDIFICIO\obj\Debug\EDIFICIO.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\EDIFICIO\EDIFICIO\obj\Debug\EDIFICIO.pdb

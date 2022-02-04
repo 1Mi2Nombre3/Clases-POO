@@ -1,0 +1,6 @@
+C:\Users\MiNombre\Documents\SharpDevelop Projects\AGRE-COMP\AGRE-COMP\obj\Debug\AGRE-COMP.csprojResolveAssemblyReference.cache
+C:\Users\MiNombre\Documents\SharpDevelop Projects\AGRE-COMP\AGRE-COMP\bin\Debug\AGRE-COMP.exe.config
+C:\Users\MiNombre\Documents\SharpDevelop Projects\AGRE-COMP\AGRE-COMP\bin\Debug\AGRE-COMP.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\AGRE-COMP\AGRE-COMP\bin\Debug\AGRE-COMP.pdb
+C:\Users\MiNombre\Documents\SharpDevelop Projects\AGRE-COMP\AGRE-COMP\obj\Debug\AGRE-COMP.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\AGRE-COMP\AGRE-COMP\obj\Debug\AGRE-COMP.pdb

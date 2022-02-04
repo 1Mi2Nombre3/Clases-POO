@@ -1,0 +1,6 @@
+C:\Users\MiNombre\Documents\SharpDevelop Projects\gusanito\gusanito\obj\Debug\gusanito.csprojResolveAssemblyReference.cache
+C:\Users\MiNombre\Documents\SharpDevelop Projects\gusanito\gusanito\bin\Debug\gusanito.exe.config
+C:\Users\MiNombre\Documents\SharpDevelop Projects\gusanito\gusanito\bin\Debug\gusanito.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\gusanito\gusanito\bin\Debug\gusanito.pdb
+C:\Users\MiNombre\Documents\SharpDevelop Projects\gusanito\gusanito\obj\Debug\gusanito.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\gusanito\gusanito\obj\Debug\gusanito.pdb

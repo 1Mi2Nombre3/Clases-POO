@@ -1,0 +1,6 @@
+C:\Users\MiNombre\Documents\SharpDevelop Projects\gusanito\Tarea1\bin\Debug\Tarea1.exe.config
+C:\Users\MiNombre\Documents\SharpDevelop Projects\gusanito\Tarea1\bin\Debug\Tarea1.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\gusanito\Tarea1\bin\Debug\Tarea1.pdb
+C:\Users\MiNombre\Documents\SharpDevelop Projects\gusanito\Tarea1\obj\Debug\Tarea1.csprojResolveAssemblyReference.cache
+C:\Users\MiNombre\Documents\SharpDevelop Projects\gusanito\Tarea1\obj\Debug\Tarea1.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\gusanito\Tarea1\obj\Debug\Tarea1.pdb

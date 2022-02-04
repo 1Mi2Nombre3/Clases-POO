@@ -1,0 +1,6 @@
+C:\Users\MiNombre\Documents\SharpDevelop Projects\ASOCIACION\ASOCIACION\bin\Debug\ASOCIACION.exe.config
+C:\Users\MiNombre\Documents\SharpDevelop Projects\ASOCIACION\ASOCIACION\bin\Debug\ASOCIACION.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\ASOCIACION\ASOCIACION\bin\Debug\ASOCIACION.pdb
+C:\Users\MiNombre\Documents\SharpDevelop Projects\ASOCIACION\ASOCIACION\obj\Debug\ASOCIACION.csprojResolveAssemblyReference.cache
+C:\Users\MiNombre\Documents\SharpDevelop Projects\ASOCIACION\ASOCIACION\obj\Debug\ASOCIACION.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\ASOCIACION\ASOCIACION\obj\Debug\ASOCIACION.pdb

@@ -1,0 +1,6 @@
+C:\Users\MiNombre\Documents\SharpDevelop Projects\Mascota\Mascota\bin\Debug\Mascota.exe.config
+C:\Users\MiNombre\Documents\SharpDevelop Projects\Mascota\Mascota\bin\Debug\Mascota.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\Mascota\Mascota\bin\Debug\Mascota.pdb
+C:\Users\MiNombre\Documents\SharpDevelop Projects\Mascota\Mascota\obj\Debug\Mascota.csprojResolveAssemblyReference.cache
+C:\Users\MiNombre\Documents\SharpDevelop Projects\Mascota\Mascota\obj\Debug\Mascota.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\Mascota\Mascota\obj\Debug\Mascota.pdb

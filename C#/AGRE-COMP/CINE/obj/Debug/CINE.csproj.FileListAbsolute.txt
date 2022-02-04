@@ -1,0 +1,6 @@
+C:\Users\MiNombre\Documents\SharpDevelop Projects\AGRE-COMP\CINE\obj\Debug\CINE.csprojResolveAssemblyReference.cache
+C:\Users\MiNombre\Documents\SharpDevelop Projects\AGRE-COMP\CINE\bin\Debug\CINE.exe.config
+C:\Users\MiNombre\Documents\SharpDevelop Projects\AGRE-COMP\CINE\bin\Debug\CINE.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\AGRE-COMP\CINE\bin\Debug\CINE.pdb
+C:\Users\MiNombre\Documents\SharpDevelop Projects\AGRE-COMP\CINE\obj\Debug\CINE.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\AGRE-COMP\CINE\obj\Debug\CINE.pdb

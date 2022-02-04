@@ -1,0 +1,6 @@
+C:\Users\MiNombre\Documents\SharpDevelop Projects\MATERIA\MATERIA\bin\Debug\MATERIA.exe.config
+C:\Users\MiNombre\Documents\SharpDevelop Projects\MATERIA\MATERIA\bin\Debug\MATERIA.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\MATERIA\MATERIA\bin\Debug\MATERIA.pdb
+C:\Users\MiNombre\Documents\SharpDevelop Projects\MATERIA\MATERIA\obj\Debug\MATERIA.csprojResolveAssemblyReference.cache
+C:\Users\MiNombre\Documents\SharpDevelop Projects\MATERIA\MATERIA\obj\Debug\MATERIA.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\MATERIA\MATERIA\obj\Debug\MATERIA.pdb

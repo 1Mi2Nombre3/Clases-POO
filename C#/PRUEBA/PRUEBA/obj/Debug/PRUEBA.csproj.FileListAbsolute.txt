@@ -1,0 +1,6 @@
+C:\Users\MiNombre\Documents\SharpDevelop Projects\PRUEBA\PRUEBA\obj\Debug\PRUEBA.csprojResolveAssemblyReference.cache
+C:\Users\MiNombre\Documents\SharpDevelop Projects\PRUEBA\PRUEBA\bin\Debug\PRUEBA.exe.config
+C:\Users\MiNombre\Documents\SharpDevelop Projects\PRUEBA\PRUEBA\bin\Debug\PRUEBA.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\PRUEBA\PRUEBA\bin\Debug\PRUEBA.pdb
+C:\Users\MiNombre\Documents\SharpDevelop Projects\PRUEBA\PRUEBA\obj\Debug\PRUEBA.exe
+C:\Users\MiNombre\Documents\SharpDevelop Projects\PRUEBA\PRUEBA\obj\Debug\PRUEBA.pdb
